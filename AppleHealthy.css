@@ -1,0 +1,40 @@
+body
+{
+   background-color: #fdcd3b;
+   font-family: sans-serif;
+   display: flex;
+   orientation: column;
+}
+
+.first
+{
+    margin: 0;
+    padding: 0;
+    background-color: #203239;
+    height: 700px;
+    width: 600px;
+}
+.fp
+{
+    color: white;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+.fi
+{
+    width: 800px;
+    height: 700px;
+    
+}
+.fs
+{
+    padding-top: 100px;
+    color: white;
+    font-size: 30px;
+}
+.ft
+{
+    color: white;
+    font-size: 20px;
+}
